@@ -1,3 +1,13 @@
+---
+permalink: /
+excerpt: "About me"
+title : "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About me
 Greetings! I am Mohammad Reza Ghasemi Madani (Reza), an M.Sc. student in Artificial Intelligence at the University of Bologna, Italy. My primary research focuses include Explainable AI, Natural Language Processing, and Large Language Models. I am under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna.
 
