@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Reza Madani"
-  # avatar           : "profilo_new.jpeg"
+  avatar           : "profile.jpg"
   bio              : "<b>M.Sc. student</b><br>Dept. of Computer Science and Engineering<br>University of Bologna (Italy)"
   location         : "Bologna, Italy"
   googlescholar    : "https://scholar.google.com/citations?user=dYvm1FYAAAAJ&hl=en"
