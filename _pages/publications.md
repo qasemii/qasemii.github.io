@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+{% include base_path %}
 
 ## 2023
 * **[REFER: An End-to-end Rationale Extraction Framework for Explanation Regularization](https://arxiv.org/abs/2310.14418)**  
