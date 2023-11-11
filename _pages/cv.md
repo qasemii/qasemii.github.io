@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here]([https://qasemii.github.io/files/](https://github.com/qasemii/qasemii.github.io/blob/master/files/Reza%20Madani%20CV.pdf)) for the complete pdf version of my curriculum vitae.
+Click [here](https://qasemii.github.io/assets/Reza_Madani.pdf) for the complete pdf version of my curriculum vitae.
 
 Education
 ======
