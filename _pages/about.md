@@ -32,6 +32,3 @@ M. R. Ghasemi, S. Tohidi, M. R. Mosavi
 Institutional email: [**mohammadreza.ghasemi@studio.unibo.it**](mailto:mohammadreza.ghasemi@studio.unibo.it)  
 Personal email: [**rezamadani.ai@gmail.com**](mailto:rezamadani.ai@gmail.com)  
 Phone: +39 351 627 2637  
-
-
--- 
