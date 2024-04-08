@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am Mohammad Reza Ghasemi Madani (Reza), an M.Sc. student in Artificial Intelligence at the University of Bologna, Italy. My primary research focuses include Explainable AI, Natural Language Processing, and Large Language Models. I am under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna.
+Greetings! I am Mohammad Reza Ghasemi Madani (Reza), an M.Sc. student in Artificial Intelligence at the University of Bologna, Italy. My primary research focuses include Explainable AI, Natural Language Processing, and Large Language Models. I did my master's thesis under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna. Currently, I am a researcher at the SML lab at the University of Trento working with [Dr. Andrea Passerini](https://disi.unitn.it/~passerini/) on the trustworthiness of LMs.
 
 # Latest news
 * _[01/04/2024]_ I joined the SML lab as a researcher working with [Prof. Andrea Passerini](https://disi.unitn.it/~passerini/) at the University of Trento.
