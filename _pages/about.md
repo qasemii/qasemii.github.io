@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am Mohammad Reza Ghasemi Madani (Reza), an M.Sc. student in Artificial Intelligence at the University of Bologna, Italy. My primary research focuses include Explainable AI, Natural Language Processing, and Large Language Models. I did my master's thesis under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna. Currently, I am a researcher at the SML lab at the University of Trento working with [Dr. Andrea Passerini](https://disi.unitn.it/~passerini/) on the trustworthiness of LMs.
+Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a Researcher at the [SML Group](https://sml.disi.unitn.it/) at the University of Trento, working with [Dr. Andrea Passerini](https://disi.unitn.it/~passerini/) and [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) on trustworthy NLP. My primary research focuses include Explainability, Robustness, and Truthfulness of Language Models. I did my master's thesis under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna.
 
 # Latest news
-* _[01/04/2024]_ I joined the SML lab as a researcher working with [Prof. Andrea Passerini](https://disi.unitn.it/~passerini/) at the University of Trento.
+* _[01/04/2024]_ I joined the [SML Group](https://sml.disi.unitn.it/) as a researcher working with [Prof. Andrea Passerini](https://disi.unitn.it/~passerini/) at the University of Trento.
 
-* _[02/02/2024]_ I defended my master's thesis, "Developing and Comparing Machine Reasoning Models to Humans in NLP Tasks", with the final grade of 107/110.
+* _[02/02/2024]_ I defended my master's thesis, "Developing and Comparing Machine Reasoning Models to Humans in NLP Tasks", with a final grade of 107/110.
 
 * _[02/11/2023]_ I will be presenting **[REFER: An End-to-end Rationale Extraction Framework for Explanation Regularization](https://arxiv.org/abs/2310.14418)** at CoNLL in Singapore on December 6-7.
 
