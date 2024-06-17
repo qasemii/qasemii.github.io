@@ -32,6 +32,6 @@ Mohammad Reza Ghasemi Madani, Pasquale Minervini
 The SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2023
 
 # Contact
-Institutional email: [**mr.ghasemimadani@unitn.com**](mailto:mr.ghasemimadani@unitn.com)  
+Institutional email: [**mr.ghasemimadani@unitn.com**](mailto:mr.ghasemimadani@unitn.it)  
 Personal email: [**rezamadani.ai@gmail.com**](mailto:rezamadani.ai@gmail.com)  
 Phone: +39 351 627 2637  
