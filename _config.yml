@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Reza Madani"
   avatar           : "profile.jpg"
-  bio              : "<b>M.Sc. student</b><br>Dept. of Computer Science and Engineering<br>University of Bologna (Italy)"
-  location         : "Bologna, Italy"
+  bio              : "<b>AI researcher</b><br>Dept. of Computer Science and Engineering<br>University of Trento (Italy)"
+  location         : "Trento, Italy"
   googlescholar    : "https://scholar.google.com/citations?user=dYvm1FYAAAAJ&hl=en"
-  email            : "mohammadreza.ghasemi@studio.unibo.it"
+  email            : "mr.ghasemimadani@unitn.it"
   # researchgate     : "https://www.researchgate.net/profile/Daniele_Malitesta"
   github           : "qasemii"
   linkedin         : "qasemii"
