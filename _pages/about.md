@@ -11,7 +11,7 @@ redirect_from:
 Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a Researcher at the [SML Group](https://sml.disi.unitn.it/) at the University of Trento, working with [Dr. Andrea Passerini](https://disi.unitn.it/~passerini/) and [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) on trustworthy NLP. My primary research focuses include Explainability, Robustness, and Truthfulness of Language Models. I did my master's thesis under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna.
 
 # Latest news
-*_[08/07/2024]_ I Just got my first citations. I feel so proud of myself :)
+* _[08/07/2024]_ I Just got my first citations. I feel so proud of myself :)
 
 * _[07/06/2024]_ Check out our paper **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)**
   
