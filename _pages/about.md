@@ -11,11 +11,13 @@ redirect_from:
 Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a Researcher at the [SML Group](https://sml.disi.unitn.it/) at the University of Trento, working with [Dr. Andrea Passerini](https://disi.unitn.it/~passerini/) and [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) on trustworthy NLP. My primary research focuses include Explainability, Robustness, and Truthfulness of Language Models. I did my master's thesis under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna.
 
 # Latest news
+* _[22/01/2025]_ **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)** has been accepted to NAACL'25. Yeay!!!
+* 
 * _[08/07/2024]_ I Just got my first citations. I feel so proud of myself :)
 
 * _[07/06/2024]_ Check out our paper **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)**
   
-* _[01/04/2024]_ I joined the [SML Group](https://sml.disi.unitn.it/) as a researcher working with [Prof. Andrea Passerini](https://disi.unitn.it/~passerini/) at the University of Trento.
+* _[01/04/2024]_ I joined the [**SML Group**](https://sml.disi.unitn.it/) as a researcher working with [**Prof. Andrea Passerini**](https://disi.unitn.it/~passerini/) at the University of Trento.
 
 * _[02/02/2024]_ I defended my master's thesis, "Developing and Comparing Machine Reasoning Models to Humans in NLP Tasks", with a final grade of 107/110.
 
@@ -30,7 +32,7 @@ Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Ca
 Submitted to the ARR for NAACL 2025
 
 * **[REFER: An End-to-end Rationale Extraction Framework for Explanation Regularization](https://arxiv.org/abs/2310.14418)**  
-Mohammad Reza Ghasemi Madani, Pasquale Minervini  
+**Mohammad Reza Ghasemi Madani**, Pasquale Minervini  
 The SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2023
 
 # Reviews
