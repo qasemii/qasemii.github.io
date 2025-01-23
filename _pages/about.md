@@ -12,7 +12,7 @@ Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a Researcher at the [SML Gr
 
 # Latest news
 * _[22/01/2025]_ **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)** has been accepted to NAACL'25. Yeay!!!
-* 
+  
 * _[08/07/2024]_ I Just got my first citations. I feel so proud of myself :)
 
 * _[07/06/2024]_ Check out our paper **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)**
