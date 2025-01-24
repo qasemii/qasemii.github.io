@@ -36,6 +36,7 @@ The Nations of the Americas Chapter of the Association for Computational Linguis
 The SIGNLL Conference on Computational Natural Language Learning (**CoNLL**) 2023
 
 # Reviews
+* CoNLL 2025
 * ICLR 2025
 * CoNLL 2024
 
