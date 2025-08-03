@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Reza Madani"
   avatar           : "profile.jpg"
-  bio              : "<b>AI researcher</b><br>Dept. of Computer Science and Engineering<br>University of Trento (Italy)"
-  location         : "Trento, Italy"
+  bio              : "<b>Ph.D. Student</b><br>Faculty of Engineering and Information Technology<br>The University of Melbourne"
+  location         : "Melbourne, Australia"
   googlescholar    : "https://scholar.google.com/citations?user=dYvm1FYAAAAJ&hl=en"
-  email            : "mr.ghasemimadani@unitn.it"
+  email            : "reza.ghasemimadani@student.unimelb.edu.au"
   # researchgate     : "https://www.researchgate.net/profile/Daniele_Malitesta"
   github           : "qasemii"
   linkedin         : "qasemii"
