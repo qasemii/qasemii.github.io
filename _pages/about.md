@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a Researcher at the [SML Group](https://sml.disi.unitn.it/) at the University of Trento, working with [Dr. Andrea Passerini](https://disi.unitn.it/~passerini/) and [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) on trustworthy NLP. My primary research focuses include Explainability, Robustness, and Truthfulness of Language Models. I did my master's thesis under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna.
+Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a first-year Ph.D. student at the University of Melbourne, supervised by [Dr Caren Han](https://drcarenhan.github.io/) and [Dr Jey Han Lau](https://jeyhan.my/). I was previously a researcher at the [SML Group](https://sml.disi.unitn.it/) at the University of Trento, working with [Dr. Andrea Passerini](https://disi.unitn.it/~passerini/) and [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) on trustworthy NLP. My primary research focuses include Explainability, Robustness, and Truthfulness of Multimodal Language Models. I did my master's under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) from the University of Edinburgh and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna, Italy.
 
 # Latest news
 * _[01/08/2025]_ I've officially started my PhD at the University of Melbourne. Looking forward to doing cool work!
@@ -32,6 +32,9 @@ Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a Researcher at the [SML Gr
 * _[19/10/2023]_ Our paper **[REFER: An End-to-end Rationale Extraction Framework for Explanation Regularization](https://arxiv.org/abs/2310.14418)** has been accepted to CoNLL 2023.
 
 # Recent publications
+* **[Noiser: Bounded Input Perturbations for Attributing Large Language Models](https://arxiv.org/abs/2504.02911)**  
+**Mohammad Reza Ghasemi Madani**, Aryo Pradipta Gema, Gabriele Sarti, Yu Zhao, Pasquale Minervini, Andrea Passerini  
+Conference on Language Modeling (**CoLM**) 2025
 
 * **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)**  
 Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, **Mohammad Reza Ghasemi Madani**, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini  
@@ -47,6 +50,6 @@ The SIGNLL Conference on Computational Natural Language Learning (**CoNLL**) 202
 * CoNLL 2024
 
 # Contact
-Institutional email: [**mr.ghasemimadani@unitn.com**](mailto:mr.ghasemimadani@unitn.it)  
+Institutional email: [**reza.ghasemimadani@student.unimelb.edu.au**](mailto:reza.ghasemimadani@student.unimelb.edu.au)  
 Personal email: [**rezamadani.ai@gmail.com**](mailto:rezamadani.ai@gmail.com)  
-Phone: +39 351 627 2637  
+Phone: +61 433 895 998  
