@@ -6,6 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
+## 2025
+* **[Noiser: Bounded Input Perturbations for Attributing Large Language Models](https://arxiv.org/abs/2504.02911)**  
+**Mohammad Reza Ghasemi Madani**, Aryo Pradipta Gema, Gabriele Sarti, Yu Zhao, Pasquale Minervini, Andrea Passerini  
+Conference on Language Modeling (**CoLM**) 2025
+
+
 ## 2024
 * **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)**  
 Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, **Mohammad Reza Ghasemi Madani**, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini  
