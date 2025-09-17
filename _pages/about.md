@@ -53,4 +53,3 @@ The SIGNLL Conference on Computational Natural Language Learning (**CoNLL**) 202
 # Contact
 Institutional email: [**reza.ghasemimadani@student.unimelb.edu.au**](mailto:reza.ghasemimadani@student.unimelb.edu.au)  
 Personal email: [**rezamadani.ai@gmail.com**](mailto:rezamadani.ai@gmail.com)  
-Phone: +61 433 895 998  
