@@ -11,6 +11,11 @@ redirect_from:
 Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a first-year Ph.D. student at the University of Melbourne, supervised by [Dr Caren Han](https://drcarenhan.github.io/) and [Dr Jey Han Lau](https://jeyhan.my/). I was previously a researcher at the [SML Group](https://sml.disi.unitn.it/) at the University of Trento, working with [Dr. Andrea Passerini](https://disi.unitn.it/~passerini/) and [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) on trustworthy NLP. My primary research focuses include Explainability, Robustness, and Truthfulness of Multimodal Language Models. I did my master's under the supervision of [Dr. Pasquale Minervini](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it) (University of Edinburgh) and [Dr. Paolo Torroni](https://scholar.google.com/citations?user=uOZZjwsAAAAJ) from the University of Bologna, Italy.
 
 # Latest news
+
+* _[04/02/2026]_ Just completed my pre-confirmation (progress check) at the University of Melbourne.
+
+* _[06/01/2026]_ **Inclusion-of-Thoughts** will be out soon. It is submitted to the ARR Jan cycle.
+
 * _[01/08/2025]_ I've officially started my PhD at the University of Melbourne. Looking forward to doing cool work!
 
 * _[08/07/2025]_ Our latest paper got accepted into CoLM'25. Check it out: [Noiser: Bounded Input Perturbations for Attributing Large Language Models](https://arxiv.org/abs/2504.02911). AND it's my birthday 🎉.
@@ -19,7 +24,7 @@ Greetings! I am Mohammad Reza Ghasemi Madani (Reza), a first-year Ph.D. student 
 
 * _[22/01/2025]_ **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)** has been accepted to NAACL'25. Yeay!!!
   
-* _[08/07/2024]_ I Just got my first citations. I feel so proud of myself :)
+* _[08/07/2024]_ I just got my first citations. I feel so proud of myself :)
 
 * _[07/06/2024]_ Check out our paper **[Are We Done with MMLU?](https://arxiv.org/abs/2406.04127)**
   
@@ -45,11 +50,8 @@ The Nations of the Americas Chapter of the Association for Computational Linguis
 The SIGNLL Conference on Computational Natural Language Learning (**CoNLL**) 2023
 
 # Reviews
-* ICLR 2026
-* CoNLL 2025
-* ICLR 2025
-* CoNLL 2024
+* CoNLL: 2024 | 2025 | 2026
+* ICLR: 2025 | 2026
 
 # Contact
-Institutional email: [**reza.ghasemimadani@student.unimelb.edu.au**](mailto:reza.ghasemimadani@student.unimelb.edu.au)  
-Personal email: [**rezamadani.ai@gmail.com**](mailto:rezamadani.ai@gmail.com)  
+Institutional email: reza.ghasemimadani [at] student.unimelb.edu.au 
