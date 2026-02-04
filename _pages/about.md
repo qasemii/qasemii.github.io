@@ -50,8 +50,8 @@ The Nations of the Americas Chapter of the Association for Computational Linguis
 The SIGNLL Conference on Computational Natural Language Learning (**CoNLL**) 2023
 
 # Reviews
-* CoNLL: 2024 | 2025 | 2026
-* ICLR: 2025 | 2026
+* CoNLL: 2024, 2025, 2026
+* ICLR: 2025, 2026
 
 # Contact
 Institutional email: reza.ghasemimadani [at] student.unimelb.edu.au 
